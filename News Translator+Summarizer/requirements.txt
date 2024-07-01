@@ -1,0 +1,7 @@
+streamlit~=1.29.0
+requests~=2.31.0
+pillow~=10.2.0
+langdetect~=1.0.9
+transformers~=4.36.2
+newspaper3k
+deep-translator
